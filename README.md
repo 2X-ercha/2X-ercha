@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 ✨ 下学期可能要开始学习深度学习啦，所以也有可能会有深度学习的东西存到这里（）
 
 ✨ 欢迎到博客里调戏我！
+
+--------
+
+#### Statistical data
+![](https://github-readme-stats.vercel.app/api?username=noionion&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+
+#### Visitors (Since 2020/10/25)
+![](https://count.getloli.com/get/@noionion?theme=gelbooru)
