@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 --------
 
 #### Statistical data
-![](https://github-readme-stats.vercel.app/api?username=2X-ercha&show_icons=true&show_icons=true&theme=radical)
 
-#### Visitors (Since 2020/10/25)
+![](https://github-readme-stats.vercel.app/api?username=2X-ercha&show_icons=true&theme=tokyonight)
+
+#### Visitors (Since 2020/12/19)
+
 ![](https://count.getloli.com/get/@2X-ercha?theme=gelbooru)
