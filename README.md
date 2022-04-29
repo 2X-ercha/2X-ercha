@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=2X-ercha&show_icons=true&theme=tokyonight)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2X-ercha)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Visitors (Since 2020/12/19)
 
 ![](https://count.getloli.com/get/@2X-ercha?theme=gelbooru)
