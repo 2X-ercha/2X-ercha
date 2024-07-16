@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ 这里是 noionion ，一个刚毕业的 cpu 验证工程师
+✨ 这里是 noionion ，一个刚毕业的 cpu 验证工程师 qwq
 
 ✨ 学过嵌入式，捣鼓过网页，玩过os，以后进军IC
 
